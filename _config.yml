@@ -1,0 +1,24 @@
+# site configuration
+
+theme: jekyll-theme-chirpy
+
+lang: en
+
+timezone: US/Pacific
+
+# main title
+title: Joel Schoenberg resume
+
+# subtitle
+tagline: Life and history
+
+description: Resume and history for Joel Schoenberg
+
+url: https://joelschoenberg.github.io/jbs
+
+author:
+  name: Joel Schoenberg
+  url: https://github.com/joelschoenberg
+
+github:
+  username: joelschoenberg
